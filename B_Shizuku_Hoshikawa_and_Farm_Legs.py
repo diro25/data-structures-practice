@@ -1,7 +1,6 @@
 import sys
 
 def solve():
-    # Read the number of test cases
     input_data = sys.stdin.read().split()
     if not input_data:
         return
